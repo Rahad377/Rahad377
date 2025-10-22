@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/Rahad377/SELabGit/blob/master/cover.jpg?raw=true" alt="AI Research Banner" width="100%"/>
+  <img src="https://github.com/Rahad377/SELabGit/blob/master/cover.jpg?raw=true" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Md. Rahad Khan</h1>
