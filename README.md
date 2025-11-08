@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Md. Rahad Khan</h1>
 <p align="center">
-  <strong>Lecturer | Deep Learning Researcher | PhD Aspirant (Computer Vision & Medical Imaging)</strong><br/>
+  <strong>Assistant Professor | Deep Learning Researcher | PhD Aspirant (Computer Vision & Medical Imaging)</strong><br/>
   <a href="mailto:rahad@cse.uiu.ac.bd">Email</a> • 
   <a href="https://www.linkedin.com/in/rahad-khan-b612032b9/">LinkedIn</a> • 
   <a href="https://scholar.google.com/citations?user=IKkalxMAAAAJ&hl=en&oi=ao">Google Scholar</a> • 
