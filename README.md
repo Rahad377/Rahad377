@@ -5,11 +5,11 @@
 
 <h1 align="center">👋 Hi, I'm Md. Rahad Khan</h1>
 <p align="center">
-  <strong>Assistant Professor | Deep Learning Researcher | PhD Aspirant (Computer Vision & Medical Imaging)</strong><br/>
-  <a href="mailto:rahad@cse.uiu.ac.bd">Email</a> • 
+  <strong>Deep Learning Researcher | PhD Aspirant (Computer Vision & Medical Imaging)</strong><br/>
+  <a href="mailto:20204008.csengg@gmail.com">Email</a> • 
   <a href="https://www.linkedin.com/in/rahad-khan-b612032b9/">LinkedIn</a> • 
   <a href="https://scholar.google.com/citations?user=IKkalxMAAAAJ&hl=en&oi=ao">Google Scholar</a> • 
-  <a href="https://cse.uiu.ac.bd/faculty/khan-rahad/">Website</a>
+  <a href="#">Website</a>
 </p>
 
 ---
@@ -22,9 +22,9 @@
 📍 Dhaka University of Engineering & Technology (DUET), Gazipur, Bangladesh  
 💡 **Research Focus:** Medical Imaging • Explainable AI • Vision Transformers • CNN   
 
-🧑‍🏫 **Lecturer, Department of CSE**  
-United International University, Dhaka, Bangladesh  
-*(Oct 2022 – Present)*  
+🧑‍🏫 **Lecturer, Institute of Information & Communication Technology**  
+Dhaka University of Engineering & Technology, Gazipur, Bangladesh  
+*(Feb 2026 - June 2026)*  
 
 ---
 
