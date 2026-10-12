@@ -38,6 +38,7 @@ Dhaka University of Engineering & Technology, Gazipur, Bangladesh
 ---
 
 ### 🧾 Publications
+📗 *Siddiqui, Fazlul Hasan, et al. **"A residual LSTM Model with feature-agnostic training for reliable estimation of FAO-56 Penman-Monteith reference evapotranspiration for rice in data-sparse environments."** Applications in Engineering Science (2026): 100357.* 🔗 [Read](https://www.sciencedirect.com/science/article/pii/S266649682600066X)
 
 📘 *Khan, Rahad, and Rafiqul Islam. **"X‐SCSANet: Explainable Stack Convolutional Self‐Attention Network for Brain Tumor Classification."** International Journal of Intelligent Systems 2025.1 (2025): 1444673.*  
 🔗 [Read on Wiley](https://onlinelibrary.wiley.com/doi/full/10.1155/int/1444673)
